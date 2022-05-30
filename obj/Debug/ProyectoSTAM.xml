@@ -1,0 +1,431 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ProyectoSTAM
+</name>
+</assembly>
+<members>
+<member name="T:ProyectoSTAM.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:ProyectoSTAM.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:ProyectoSTAM.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSet.departamentoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSet.empleadoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSet.empresaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSet.opcionesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSet.parametrosHorarioDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSet.permisosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSet.puestoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSet.registroAsistenciaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSet.rolDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSet.rolOpcionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSet.usuarioDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSet.VistaDepartamentoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSet.VistaEmpleadoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSet.VistaOpcionesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSet.VistaPuestoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSet.VistaRegistroAsistenciaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSet.VistaRolDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSet.VistaUsuarioDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSet.departamentoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSet.empleadoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSet.empresaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSet.opcionesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSet.parametrosHorarioRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSet.permisosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSet.puestoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSet.registroAsistenciaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSet.rolRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSet.rolOpcionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSet.usuarioRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSet.VistaDepartamentoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSet.VistaEmpleadoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSet.VistaOpcionesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSet.VistaPuestoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSet.VistaRegistroAsistenciaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSet.VistaRolRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSet.VistaUsuarioRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSet.departamentoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSet.empleadoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSet.empresaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSet.opcionesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSet.parametrosHorarioRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSet.permisosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSet.puestoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSet.registroAsistenciaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSet.rolRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSet.rolOpcionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSet.usuarioRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSet.VistaDepartamentoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSet.VistaEmpleadoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSet.VistaOpcionesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSet.VistaPuestoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSet.VistaRegistroAsistenciaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSet.VistaRolRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSet.VistaUsuarioRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSetTableAdapters.departamentoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSetTableAdapters.empleadoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSetTableAdapters.empresaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSetTableAdapters.opcionesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSetTableAdapters.parametrosHorarioTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSetTableAdapters.permisosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSetTableAdapters.puestoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSetTableAdapters.registroAsistenciaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSetTableAdapters.rolTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSetTableAdapters.rolOpcionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSetTableAdapters.usuarioTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSetTableAdapters.VistaDepartamentoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSetTableAdapters.VistaEmpleadoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSetTableAdapters.VistaOpcionesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSetTableAdapters.VistaPuestoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSetTableAdapters.VistaRegistroAsistenciaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSetTableAdapters.VistaRolTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSetTableAdapters.VistaUsuarioTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:ProyectoSTAM.BDCtrlAsistenciaDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(ProyectoSTAM.BDCtrlAsistenciaDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:ProyectoSTAM.BDCtrlAsistenciaDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(ProyectoSTAM.BDCtrlAsistenciaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:ProyectoSTAM.BDCtrlAsistenciaDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(ProyectoSTAM.BDCtrlAsistenciaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:ProyectoSTAM.BDCtrlAsistenciaDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:ProyectoSTAM.BDCtrlAsistenciaDataSetTableAdapters.TableAdapterManager.UpdateAll(ProyectoSTAM.BDCtrlAsistenciaDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:ProyectoSTAM.BDCtrlAsistenciaDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

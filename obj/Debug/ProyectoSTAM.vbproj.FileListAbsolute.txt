@@ -1,0 +1,384 @@
+C:\Users\user\source\repos\ProyectoSTAM\bin\Debug\ProyectoSTAM.exe.config
+C:\Users\user\source\repos\ProyectoSTAM\bin\Debug\ProyectoSTAM.exe
+C:\Users\user\source\repos\ProyectoSTAM\bin\Debug\ProyectoSTAM.pdb
+C:\Users\user\source\repos\ProyectoSTAM\bin\Debug\ProyectoSTAM.xml
+C:\Users\user\source\repos\ProyectoSTAM\obj\Debug\ProyectoSTAM.vbproj.AssemblyReference.cache
+C:\Users\user\source\repos\ProyectoSTAM\obj\Debug\ProyectoSTAM.Resources.resources
+C:\Users\user\source\repos\ProyectoSTAM\obj\Debug\ProyectoSTAM.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\ProyectoSTAM\obj\Debug\ProyectoSTAM.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ProyectoSTAM\obj\Debug\ProyectoSTAM.exe
+C:\Users\user\source\repos\ProyectoSTAM\obj\Debug\ProyectoSTAM.xml
+C:\Users\user\source\repos\ProyectoSTAM\obj\Debug\ProyectoSTAM.pdb
+C:\Users\user\source\repos\ProyectoSTAM\obj\Debug\ProyectoSTAM.Form1.resources
+C:\Users\user\source\repos\ProyectoSTAM\obj\Debug\ProyectoSTAM.frmLoginAdministradores.resources
+C:\Users\user\source\repos\ProyectoSTAM\obj\Debug\ProyectoSTAM.frmLoginEmpleado.resources
+C:\Users\user\source\repos\ProyectoSTAM\obj\Debug\ProyectoSTAM.frmMenuPpal.resources
+C:\Users\user\source\repos\ProyectoSTAM\obj\Debug\ProyectoSTAM.frmMarcadoES.resources
+C:\Users\user\source\repos\ProyectoSTAM\obj\Debug\ProyectoSTAM.frmGestionEmpleado.resources
+C:\Users\user\source\repos\ProyectoSTAM\obj\Debug\ProyectoSTAM.frmJustificacion.resources
+C:\Users\Ashca\OneDrive\Documentos\ProyectoSTAM\bin\Debug\ProyectoSTAM.exe.config
+C:\Users\Ashca\OneDrive\Documentos\ProyectoSTAM\bin\Debug\ProyectoSTAM.exe
+C:\Users\Ashca\OneDrive\Documentos\ProyectoSTAM\bin\Debug\ProyectoSTAM.pdb
+C:\Users\Ashca\OneDrive\Documentos\ProyectoSTAM\bin\Debug\ProyectoSTAM.xml
+C:\Users\Ashca\OneDrive\Documentos\ProyectoSTAM\obj\Debug\ProyectoSTAM.vbprojAssemblyReference.cache
+C:\Users\Ashca\OneDrive\Documentos\ProyectoSTAM\obj\Debug\ProyectoSTAM.frEntrada.resources
+C:\Users\Ashca\OneDrive\Documentos\ProyectoSTAM\obj\Debug\ProyectoSTAM.frmGestionEmpleado.resources
+C:\Users\Ashca\OneDrive\Documentos\ProyectoSTAM\obj\Debug\ProyectoSTAM.frmJustificacion.resources
+C:\Users\Ashca\OneDrive\Documentos\ProyectoSTAM\obj\Debug\ProyectoSTAM.frmLoginAdministradores.resources
+C:\Users\Ashca\OneDrive\Documentos\ProyectoSTAM\obj\Debug\ProyectoSTAM.frmLoginEmpleado.resources
+C:\Users\Ashca\OneDrive\Documentos\ProyectoSTAM\obj\Debug\ProyectoSTAM.frmMarcadoES.resources
+C:\Users\Ashca\OneDrive\Documentos\ProyectoSTAM\obj\Debug\ProyectoSTAM.frmMenuPpal.resources
+C:\Users\Ashca\OneDrive\Documentos\ProyectoSTAM\obj\Debug\ProyectoSTAM.Resources.resources
+C:\Users\Ashca\OneDrive\Documentos\ProyectoSTAM\obj\Debug\ProyectoSTAM.vbproj.GenerateResource.cache
+C:\Users\Ashca\OneDrive\Documentos\ProyectoSTAM\obj\Debug\ProyectoSTAM.vbproj.CoreCompileInputs.cache
+C:\Users\Ashca\OneDrive\Documentos\ProyectoSTAM\obj\Debug\ProyectoSTAM.exe
+C:\Users\Ashca\OneDrive\Documentos\ProyectoSTAM\obj\Debug\ProyectoSTAM.xml
+C:\Users\Ashca\OneDrive\Documentos\ProyectoSTAM\obj\Debug\ProyectoSTAM.pdb
+C:\Users\Ashca\OneDrive\Documentos\ProyectoSTAM\obj\Debug\ProyectoSTAM.frmGestionDepartamentos.resources
+D:\Program Files (x86)\DBD\VS\ProyectoSTAM\ProyectoSTAM\bin\Debug\ProyectoSTAM.exe.config
+D:\Program Files (x86)\DBD\VS\ProyectoSTAM\ProyectoSTAM\bin\Debug\ProyectoSTAM.exe
+D:\Program Files (x86)\DBD\VS\ProyectoSTAM\ProyectoSTAM\bin\Debug\ProyectoSTAM.pdb
+D:\Program Files (x86)\DBD\VS\ProyectoSTAM\ProyectoSTAM\bin\Debug\ProyectoSTAM.xml
+D:\Program Files (x86)\DBD\VS\ProyectoSTAM\ProyectoSTAM\obj\Debug\ProyectoSTAM.vbprojAssemblyReference.cache
+D:\Program Files (x86)\DBD\VS\ProyectoSTAM\ProyectoSTAM\obj\Debug\ProyectoSTAM.frEntrada.resources
+D:\Program Files (x86)\DBD\VS\ProyectoSTAM\ProyectoSTAM\obj\Debug\ProyectoSTAM.frmGestionDepartamentos.resources
+D:\Program Files (x86)\DBD\VS\ProyectoSTAM\ProyectoSTAM\obj\Debug\ProyectoSTAM.frmGestionEmpleado.resources
+D:\Program Files (x86)\DBD\VS\ProyectoSTAM\ProyectoSTAM\obj\Debug\ProyectoSTAM.frmGestionRoles.resources
+D:\Program Files (x86)\DBD\VS\ProyectoSTAM\ProyectoSTAM\obj\Debug\ProyectoSTAM.frmJustificacion.resources
+D:\Program Files (x86)\DBD\VS\ProyectoSTAM\ProyectoSTAM\obj\Debug\ProyectoSTAM.frmLoginAdministradores.resources
+D:\Program Files (x86)\DBD\VS\ProyectoSTAM\ProyectoSTAM\obj\Debug\ProyectoSTAM.frmLoginEmpleado.resources
+D:\Program Files (x86)\DBD\VS\ProyectoSTAM\ProyectoSTAM\obj\Debug\ProyectoSTAM.frmMarcadoES.resources
+D:\Program Files (x86)\DBD\VS\ProyectoSTAM\ProyectoSTAM\obj\Debug\ProyectoSTAM.frmMenuPpal.resources
+D:\Program Files (x86)\DBD\VS\ProyectoSTAM\ProyectoSTAM\obj\Debug\ProyectoSTAM.Resources.resources
+D:\Program Files (x86)\DBD\VS\ProyectoSTAM\ProyectoSTAM\obj\Debug\ProyectoSTAM.vbproj.GenerateResource.cache
+D:\Program Files (x86)\DBD\VS\ProyectoSTAM\ProyectoSTAM\obj\Debug\ProyectoSTAM.vbproj.CoreCompileInputs.cache
+D:\Program Files (x86)\DBD\VS\ProyectoSTAM\ProyectoSTAM\obj\Debug\ProyectoSTAM.exe
+D:\Program Files (x86)\DBD\VS\ProyectoSTAM\ProyectoSTAM\obj\Debug\ProyectoSTAM.xml
+D:\Program Files (x86)\DBD\VS\ProyectoSTAM\ProyectoSTAM\obj\Debug\ProyectoSTAM.pdb
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\ProyectoSTAM.exe.config
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\ProyectoSTAM.exe
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\ProyectoSTAM.pdb
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\ProyectoSTAM.xml
+C:\Users\Ashca\Downloads\ProyectoSTAM\obj\Debug\ProyectoSTAM.vbprojAssemblyReference.cache
+C:\Users\Ashca\Downloads\ProyectoSTAM\obj\Debug\ProyectoSTAM.frEntrada.resources
+C:\Users\Ashca\Downloads\ProyectoSTAM\obj\Debug\ProyectoSTAM.frmGestionDepartamentos.resources
+C:\Users\Ashca\Downloads\ProyectoSTAM\obj\Debug\ProyectoSTAM.frmGestionEmpleado.resources
+C:\Users\Ashca\Downloads\ProyectoSTAM\obj\Debug\ProyectoSTAM.frmGestPuestos.resources
+C:\Users\Ashca\Downloads\ProyectoSTAM\obj\Debug\ProyectoSTAM.frmGestionRoles.resources
+C:\Users\Ashca\Downloads\ProyectoSTAM\obj\Debug\ProyectoSTAM.frmGestUsuario.resources
+C:\Users\Ashca\Downloads\ProyectoSTAM\obj\Debug\ProyectoSTAM.frmJustificacion.resources
+C:\Users\Ashca\Downloads\ProyectoSTAM\obj\Debug\ProyectoSTAM.frmLoginAdministradores.resources
+C:\Users\Ashca\Downloads\ProyectoSTAM\obj\Debug\ProyectoSTAM.frmLoginEmpleado.resources
+C:\Users\Ashca\Downloads\ProyectoSTAM\obj\Debug\ProyectoSTAM.frmMarcadoES.resources
+C:\Users\Ashca\Downloads\ProyectoSTAM\obj\Debug\ProyectoSTAM.frmMenuPpal.resources
+C:\Users\Ashca\Downloads\ProyectoSTAM\obj\Debug\ProyectoSTAM.Resources.resources
+C:\Users\Ashca\Downloads\ProyectoSTAM\obj\Debug\ProyectoSTAM.vbproj.GenerateResource.cache
+C:\Users\Ashca\Downloads\ProyectoSTAM\obj\Debug\ProyectoSTAM.vbproj.CoreCompileInputs.cache
+C:\Users\Ashca\Downloads\ProyectoSTAM\obj\Debug\ProyectoSTAM.exe
+C:\Users\Ashca\Downloads\ProyectoSTAM\obj\Debug\ProyectoSTAM.xml
+C:\Users\Ashca\Downloads\ProyectoSTAM\obj\Debug\ProyectoSTAM.pdb
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\EnvDTE.dll
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\stdole.dll
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ashca\Downloads\ProyectoSTAM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ashca\Downloads\ProyectoSTAM\obj\Debug\ProyectoSTAM.vbproj.CopyComplete
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\ProyectoSTAM.exe.config
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\ProyectoSTAM.exe
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\ProyectoSTAM.pdb
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\ProyectoSTAM.xml
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\EnvDTE.dll
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\stdole.dll
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\Microsoft.MSXML.dll
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\ProyectoSTAM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\ProyectoSTAM\obj\Debug\ProyectoSTAM.vbproj.AssemblyReference.cache
+C:\Users\user\Downloads\ProyectoSTAM\obj\Debug\ProyectoSTAM.frEntrada.resources
+C:\Users\user\Downloads\ProyectoSTAM\obj\Debug\ProyectoSTAM.frmGestionDepartamentos.resources
+C:\Users\user\Downloads\ProyectoSTAM\obj\Debug\ProyectoSTAM.frmGestionEmpleado.resources
+C:\Users\user\Downloads\ProyectoSTAM\obj\Debug\ProyectoSTAM.frmGestPuestos.resources
+C:\Users\user\Downloads\ProyectoSTAM\obj\Debug\ProyectoSTAM.frmGestionRoles.resources
+C:\Users\user\Downloads\ProyectoSTAM\obj\Debug\ProyectoSTAM.frmGestUsuario.resources
+C:\Users\user\Downloads\ProyectoSTAM\obj\Debug\ProyectoSTAM.frmJustificacion.resources
+C:\Users\user\Downloads\ProyectoSTAM\obj\Debug\ProyectoSTAM.frmLoginAdministradores.resources
+C:\Users\user\Downloads\ProyectoSTAM\obj\Debug\ProyectoSTAM.frmLoginEmpleado.resources
+C:\Users\user\Downloads\ProyectoSTAM\obj\Debug\ProyectoSTAM.frmMarcadoES.resources
+C:\Users\user\Downloads\ProyectoSTAM\obj\Debug\ProyectoSTAM.frmMenuPpal.resources
+C:\Users\user\Downloads\ProyectoSTAM\obj\Debug\ProyectoSTAM.Resources.resources
+C:\Users\user\Downloads\ProyectoSTAM\obj\Debug\ProyectoSTAM.vbproj.GenerateResource.cache
+C:\Users\user\Downloads\ProyectoSTAM\obj\Debug\ProyectoSTAM.vbproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\ProyectoSTAM\obj\Debug\ProyectoSTAM.vbproj.CopyComplete
+C:\Users\user\Downloads\ProyectoSTAM\obj\Debug\ProyectoSTAM.exe
+C:\Users\user\Downloads\ProyectoSTAM\obj\Debug\ProyectoSTAM.xml
+C:\Users\user\Downloads\ProyectoSTAM\obj\Debug\ProyectoSTAM.pdb
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\ProyectoSTAM.exe.config
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\ProyectoSTAM.exe
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\ProyectoSTAM.pdb
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\ProyectoSTAM.xml
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\EnvDTE.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\stdole.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\Microsoft.MSXML.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\obj\Debug\ProyectoSTAM.vbprojAssemblyReference.cache
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\obj\Debug\ProyectoSTAM.frEntrada.resources
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\obj\Debug\ProyectoSTAM.frmGestionDepartamentos.resources
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\obj\Debug\ProyectoSTAM.frmGestionEmpleado.resources
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\obj\Debug\ProyectoSTAM.frmGestPuestos.resources
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\obj\Debug\ProyectoSTAM.frmGestionRoles.resources
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\obj\Debug\ProyectoSTAM.frmGestUsuario.resources
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\obj\Debug\ProyectoSTAM.frmJustificacion.resources
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\obj\Debug\ProyectoSTAM.frmLoginAdministradores.resources
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\obj\Debug\ProyectoSTAM.frmLoginEmpleado.resources
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\obj\Debug\ProyectoSTAM.frmMarcadoES.resources
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\obj\Debug\ProyectoSTAM.frmMenuPpal.resources
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\obj\Debug\ProyectoSTAM.Resources.resources
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\obj\Debug\ProyectoSTAM.vbproj.GenerateResource.cache
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\obj\Debug\ProyectoSTAM.vbproj.CoreCompileInputs.cache
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\obj\Debug\ProyectoSTAM.vbproj.CopyComplete
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\obj\Debug\ProyectoSTAM.exe
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\obj\Debug\ProyectoSTAM.xml
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAM\obj\Debug\ProyectoSTAM.pdb
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\ProyectoSTAM.exe.config
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\ProyectoSTAM.exe
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\ProyectoSTAM.pdb
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\ProyectoSTAM.xml
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\EnvDTE.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\stdole.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\Microsoft.MSXML.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\obj\Debug\ProyectoSTAM.vbprojAssemblyReference.cache
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\obj\Debug\ProyectoSTAM.frEntrada.resources
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\obj\Debug\ProyectoSTAM.frmGestionDepartamentos.resources
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\obj\Debug\ProyectoSTAM.frmGestionEmpleado.resources
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\obj\Debug\ProyectoSTAM.frmGestPuestos.resources
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\obj\Debug\ProyectoSTAM.frmGestionRoles.resources
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\obj\Debug\ProyectoSTAM.frmGestUsuario.resources
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\obj\Debug\ProyectoSTAM.frmJustificacion.resources
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\obj\Debug\ProyectoSTAM.frmLoginAdministradores.resources
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\obj\Debug\ProyectoSTAM.frmLoginEmpleado.resources
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\obj\Debug\ProyectoSTAM.frmMarcadoES.resources
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\obj\Debug\ProyectoSTAM.frmMenuPpal.resources
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\obj\Debug\ProyectoSTAM.Resources.resources
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\obj\Debug\ProyectoSTAM.vbproj.GenerateResource.cache
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\obj\Debug\ProyectoSTAM.vbproj.CoreCompileInputs.cache
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\obj\Debug\ProyectoSTAM.vbproj.CopyComplete
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\obj\Debug\ProyectoSTAM.exe
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\obj\Debug\ProyectoSTAM.xml
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\obj\Debug\ProyectoSTAM.pdb
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\obj\Debug\RdlCompile.cache
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\obj\Debug\RdlCompile.compiled
+D:\Program Files (x86)\DBD\ProyectoFinal\ProyectoSTAM(Mas actualizado y con conexion a BD)\ProyectoSTAMLogin\obj\Debug\ProyectoSTAM.frmRptES.resources
